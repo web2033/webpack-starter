@@ -1,0 +1,24 @@
+@import '~@web2033/default.css/default.css';
+
+:root {
+  --primary: hsl(215, 58%, 44%);
+  --accent: hsl(35, 100%, 63%);
+  --header: hsl(0, 0%, 10%);
+  --text: hsl(0, 0%, 17%);
+  --bg: hsl(0, 0%, 93%);
+}
+
+body {
+  font-family: Montserrat, sans-serif;
+  color: var(--text);
+  overflow-x: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--header);
+}
