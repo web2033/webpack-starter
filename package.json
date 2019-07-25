@@ -24,6 +24,7 @@
   "dependencies": {
     "@web2033/default.css": "^1.0.2",
     "@web2033/trigger": "^1.1.3",
-    "animejs": "^3.0.1"
+    "animejs": "^3.0.1",
+    "intersection-observer": "^0.7.0"
   }
 }
