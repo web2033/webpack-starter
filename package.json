@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@web2033/default.css": "^1.0.3",
-    "@web2033/trigger": "^1.1.5",
+    "@web2033/trigger": "^1.1.7",
     "animejs": "^3.2.0",
     "intersection-observer": "^0.10.0"
   }
